@@ -1,7 +1,6 @@
 ## Hi, I'm Tshepo
 
-self-taught python programmer
-studied Bsc mathematics and applied mathematics at the university of the free state
+self-taught python programmere
 I'm currently improving my python skills using data visualization, web app(django) and game development projects
 In my spare time I watch anime, TV-shows, movies and football as well as play video games
 
